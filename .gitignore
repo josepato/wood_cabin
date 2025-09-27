@@ -1,3 +1,8 @@
+#FreeCad
+*.FCBak
+#General Files
+*.log
+*.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
